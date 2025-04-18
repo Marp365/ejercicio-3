@@ -1,3 +1,5 @@
+Escribe un programa que permita al usuario ingresar 10 números enteros en un arreglo. Luego, rota los elementos una posición hacia la derecha, de modo que el último pase a ser el primero, y muestra el resultado.
+
 #include <iostream>
 using namespace std;
 
